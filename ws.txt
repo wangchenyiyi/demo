@@ -4,6 +4,7 @@ please call me wangsong !
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -14,3 +15,9 @@ please call me wangsong !
 
 
 master分支上的修改
+=======
+f2分支上的修改
+>>>>>>> f2
+
+
+在master分支为解决冲突而进行的修改
