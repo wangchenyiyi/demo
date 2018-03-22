@@ -11,3 +11,11 @@ Creating a new branch is quick and simple
 
 
 Creating a new branch is quick 并且 simple
+
+
+
+
+
+
+解决git bug 分支   、、、、、git 的stash功能
+ 
